@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @pablospata
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I’m Pablo 👋
+---
+
+I am an algorithmic trading developer and Computer Science student in Argentina.
+
+---
+
+#### More about me
+
+- 🏢 Currently, I work as a developer of trading strategies for various clients on a freelance basis.
+- ⚙️ I enjoy coding in **Python** / **R** / **C++**. And I have strong knowledge and experience in MQL4 and MQL5.
+- 🌱 I am enthusiastic about Data Science and I have a special interest in all financial markets through a quantitative approach.
+- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pablo-spata)
+
 
 <!---
 pablospata/pablospata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
