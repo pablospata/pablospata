@@ -1,14 +1,14 @@
 ## Hi, I’m Pablo 👋
+
+
+I'm an algorithmic trading developer and Computer Science student in Argentina.
+
 ---
 
-I am an algorithmic trading developer and Computer Science student in Argentina.
-
----
-
-#### More about me
+#### More about me:
 
 - 🏢 Currently, I work as a developer of trading strategies for various clients on a freelance basis.
-- ⚙️ I enjoy coding in **Python** / **R** / **C++**. And I have strong knowledge and experience in MQL4 and MQL5.
+- ⚙️ I enjoy coding in **Python** / **R** / **C++**. And I have strong knowledge and experience in **MQL4** and **MQL5**.
 - 🌱 I am enthusiastic about Data Science and I have a special interest in all financial markets through a quantitative approach.
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/pablo-spata)
 
